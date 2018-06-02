@@ -18,12 +18,12 @@ class PicContainer extends Component {
   render() {
     return (
       <Flexbox flexDirection="row" className="pic-container">
-        <Flexbox flexDirection="column" width="80%" className="pic-box">
-            <img  src={this.props.items[this.state.i].picPath} alt={this.props.items[this.state.i].caption} className="pic" onClick={this.handlePicClick} />
+        <Flexbox flexDirection="column" width="100%" className="pic-box">
+            <img  src={this.props.items[this.state.i].picPath} alt={this.props.items[this.state.i].caption} className={this.props.category + ' pic'} onClick={this.handlePicClick} />
             <p className="caption">{this.props.items[this.state.i].caption}</p>
         </Flexbox>
         <Flexbox flexDirection='column' className='category'>
-          <p>{this.props.category}</p>
+          <p className="category">{this.props.category}</p>
         </Flexbox>
       </Flexbox>
     );
