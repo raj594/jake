@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Flexbox from 'flexbox-react';
 import PicContainer from './PicContainer';
-import a_sublev_0_T_O_C from '../assets/Book_tier1/a_sublev_0_T_O_C.jpg'
 
 const books = [
 			{
