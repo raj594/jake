@@ -52,11 +52,12 @@
 .caption,
 .category {
   text-align: left;
-  padding-top: 5px;
+
 }
 
 .category {
   padding-left: 20px;
+  margin-top: 0px;
 }
 
 @keyframes App-logo-spin {
