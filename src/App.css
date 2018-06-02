@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+  background: lightgray;
+}
+
+.sidebar,
+.contact {
+  padding-top: 30px;
+  padding-left: 25px;
+  background: #efecc9;
+  text-align: left;
+  width: 200px;
+  flex: 1 1 auto;
+}
+
+.pics-container {
+  background: yellow;
+}
+
+.pic-container {
+  background: white;
+  margin-top: 30px;
+  border-bottom: 1px solid darkgray;
+  height: 700px;
+}
+
+.name {
+  font-size: 15px;
+  font-weight: light;
+  margin-bottom:50px;
+}
+
+.links {
+  font-size: 20px;
+}
+
+.link {
+}
+
+.pic-box {
+  background: gray;
+}
+
+.pic {
+  height: 90%;
+}
+
+.caption,
+.category {
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 5px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
