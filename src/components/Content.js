@@ -72,10 +72,10 @@ const other = [
 class Content extends Component {
   render() {
     return (
-      <Flexbox flexDirection="column" width="100%" className="pics-container">
-        <PicContainer items={books} category={'books'} />
-        <PicContainer items={posters} category={'posters'} />
-        <PicContainer items={other} category={'other'} />
+      <Flexbox flexDirection="column" width="60%" className="pics-container">
+        <PicContainer items={books} category={'books'} width={'95%'} />
+        <PicContainer items={posters} category={'posters'} width={'65%'} />
+        <PicContainer items={other} category={'other'} width={'90%'} />
       </Flexbox>
     );
   }

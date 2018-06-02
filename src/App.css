@@ -7,17 +7,19 @@
 .contact {
   padding-top: 30px;
   padding-left: 25px;
-  width: 200px;
+
   flex: 1 1 auto;
 }
 
 .sidebar {
   text-align: left;
+  width: 20%;
 }
 
 .contact {
   text-align: right;
   padding-right: 5px;
+  width: 20%;
 }
 
 .pics-container {
@@ -42,7 +44,6 @@
 }
 
 .pic-box {
-
   border-bottom: 1px solid darkgray;
 }
 
