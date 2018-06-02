@@ -26,7 +26,6 @@
 .pic-container {
   background: white;
   margin-top: 30px;
-  border-bottom: 1px solid darkgray;
 }
 
 .name {
@@ -43,6 +42,8 @@
 }
 
 .pic-box {
+
+  border-bottom: 1px solid darkgray;
 }
 
 .pic {
