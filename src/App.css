@@ -1,20 +1,25 @@
 .App {
   text-align: center;
-  background: lightgray;
+  background: white;
 }
 
 .sidebar,
 .contact {
   padding-top: 30px;
   padding-left: 25px;
-  background: #efecc9;
-  text-align: left;
   width: 200px;
   flex: 1 1 auto;
 }
 
+.sidebar {
+  text-align: left;
+}
+
+.contact {
+  text-align: right;
+}
+
 .pics-container {
-  background: yellow;
 }
 
 .pic-container {
@@ -38,7 +43,6 @@
 }
 
 .pic-box {
-  background: gray;
 }
 
 .pic {
@@ -48,8 +52,11 @@
 .caption,
 .category {
   text-align: left;
-  padding-left: 20px;
   padding-top: 5px;
+}
+
+.category {
+  padding-left: 20px;
 }
 
 @keyframes App-logo-spin {
