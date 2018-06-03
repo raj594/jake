@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.861ab510.css",
   "main.css.map": "static/css/main.861ab510.css.map",
-  "main.js": "static/js/main.17f69169.js",
-  "main.js.map": "static/js/main.17f69169.js.map",
+  "main.js": "static/js/main.562de765.js",
+  "main.js.map": "static/js/main.562de765.js.map",
   "static/media/Babs_Imhof_CA_VA.jpg": "static/media/Babs_Imhof_CA_VA.1ae953d6.jpg",
   "static/media/Dance_shirt_1.jpg": "static/media/Dance_shirt_1.a88c6cd8.jpg",
   "static/media/Dance_shirt_2.jpg": "static/media/Dance_shirt_2.c329763d.jpg",
@@ -14,8 +14,5 @@
   "static/media/a_sublev_1.jpg": "static/media/a_sublev_1.9b5eb613.jpg",
   "static/media/a_sublev_2.jpg": "static/media/a_sublev_2.60d72c0f.jpg",
   "static/media/a_sublev_3.jpg": "static/media/a_sublev_3.39049284.jpg",
-  "static/media/ej_final_1.jpg": "static/media/ej_final_1.7bc07bd2.jpg",
-  "static/media/electra_spread_1.jpg": "static/media/electra_spread_1.2eacbf60.jpg",
-  "static/media/electra_spread_2.jpg": "static/media/electra_spread_2.0fcc0efb.jpg",
-  "static/media/electra_spread_3.jpg": "static/media/electra_spread_3.6fb14ca1.jpg"
+  "static/media/ej_final_1.jpg": "static/media/ej_final_1.7bc07bd2.jpg"
 }
