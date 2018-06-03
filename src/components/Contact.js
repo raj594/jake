@@ -6,9 +6,9 @@ class Contact extends Component {
     return (
       <Flexbox flexDirection="column" className="contact">
         <div>
-          <p className='contact-line'>The 411</p>
-          <p className='contact-line'>into my dm</p>
-          <p className='contact-line'>@lord_jake_juice</p>
+          <a href="https://www.instagram.com/lord_jake_juice/" className='contact-line'> 
+            @lord_jake_juice 
+          </a>
         </div>
       </Flexbox>
     );

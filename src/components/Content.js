@@ -72,9 +72,9 @@ class Content extends Component {
   render() {
     return (
       <Flexbox flexDirection="column" width="60%" className="pics-container">
-        <PicContainer items={books} category={'books'} width={'95%'} />
-        <PicContainer items={posters} category={'posters'} width={'65%'} />
-        <PicContainer items={other} category={'other'} width={'90%'} />
+        <PicContainer items={books} category={'Books'} width={'95%'} />
+        <PicContainer items={posters} category={'Posters'} width={'65%'} />
+        <PicContainer items={other} category={'Other'} width={'90%'} />
       </Flexbox>
     );
   }
