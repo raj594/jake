@@ -4,67 +4,55 @@ import PicContainer from './PicContainer';
 
 const books = [
 			{
-				caption: 'book 1',
+				caption: 'The second issue of ‘Sublevel’, Calarts’ critical studies publication—2018',
 				picPath: require('../assets/Book_tier1/a_sublev_0_T_O_C.jpg')
 			},
 			{
-				caption: 'book 2',
+				caption: 'The second issue of ‘Sublevel’, Calarts’ critical studies publication—2018',
 				picPath: require('../assets/Book_tier1/a_sublev_1.jpg')
 			},
 			{
-				caption: 'book 3',
+				caption: 'The second issue of ‘Sublevel’, Calarts’ critical studies publication—2018',
 				picPath: require('../assets/Book_tier1/a_sublev_2.jpg')
 			},
 			{
-				caption: 'book 4',
+				caption: 'The second issue of ‘Sublevel’, Calarts’ critical studies publication—2018',
 				picPath: require('../assets/Book_tier1/a_sublev_3.jpg')
 			},
 			{
-				caption: 'book 5',
-				picPath: require('../assets/Book_tier1/electra_spread_1.jpg')
-			},
-			{
-				caption: 'book 6',
-				picPath: require('../assets/Book_tier1/electra_spread_2.jpg')
-			},
-			{
-				caption: 'book 7',
-				picPath: require('../assets/Book_tier1/electra_spread_3.jpg')
-			},
-			{
-				caption: 'book 8',
+				caption: 'Vilém Flusser’s essay about the ‘vampire squid from hell’—2017',
 				picPath: require('../assets/Book_tier1/Vampyro_0_TOC.jpg')
 			},
 			{
-				caption: 'book 9',
+				caption: 'Vilém Flusser’s essay about the ‘vampire squid from hell’—2017',
 				picPath: require('../assets/Book_tier1/Vampyro_spread_1.jpg')
 			},
 			{
-				caption: 'book 10',
+				caption: 'Vilém Flusser’s essay about the ‘vampire squid from hell’—2017',
 				picPath: require('../assets/Book_tier1/Vampyro_spread_2.jpg')
 			}];
 
 const posters = [
 {
-	caption: 'poster 1',
+	caption: 'Calarts visiting architect poster for Barbara Imhof—2018',
 	picPath: require('../assets/Poster_tier_2/Babs_Imhof_CA_VA.jpg')
 },
 {
-	caption: 'poster 2',
+	caption: 'Calarts visiting architect poster for EJ Hill & Lauren Halsey—2018',
 	picPath: require('../assets/Poster_tier_2/ej_final_1.jpg')
 },
 {
-	caption: 'poster 3',
+	caption: 'Poster & identity for Calarts MFA Open Studios—2018',
 	picPath: require('../assets/Poster_tier_2/OPEN_STUDIOS_final3.jpg')
 }];
 
 const other = [
 {
-	caption: 'other 1',
+	caption: 'Shirt designs for Calarts School of Dance—2018',
 	picPath: require('../assets/Other_tier_3/Dance_shirt_1.jpg')
 },
 {
-	caption: 'other 2',
+	caption: 'Shirt designs for Calarts School of Dance—2018',
 	picPath: require('../assets/Other_tier_3/Dance_shirt_2.jpg')
 }];
 
