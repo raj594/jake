@@ -1,21 +1,20 @@
 import React, { Component } from 'react';
 import Flexbox from 'flexbox-react';
 
-const links = ['EJ Hill/L. Halsey', 
+const links = ['Sublevel Mag',
+                'Grad Practice',
+                '2001 A.S.O',
+                'Vampyroteuthis',
+                'EJ Hill/L. Halsey', 
                 'Open Studios', 
-                'Bojana Cjevic', 
-                'Veggie Cloud', 
-                'Young Joon Kwak', 
+                'Bojana Cjevic',
                 'School of Dance', 
-                'Kenyatta Hinkle', 
-                'Sublevel Mag', 
-                'Grad Practice', 
-                '2001 A.S.O', 
-                'Electra Specimen', 
-                'Vampyroteuthis', 
+                'Veggie Cloud', 
+                'Young Joon Kwak',      
                 'Dance Shirts',
                 'Gluten Death',
-                'Drusilla Titling']
+                'Drusilla Titling'
+                ];
 
 class NavSidebar extends Component {
   render() {
