@@ -11,7 +11,7 @@ class PicContainer extends Component {
   handlePicClick = () => {
     this.setState((prevState) => {
       let newState = (this.props.items[prevState.i + 1]) ? prevState.i + 1 : 0
-      return {i: newState };
+      return {i: newState};
     });
   }
   render() {

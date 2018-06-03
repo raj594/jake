@@ -45,13 +45,16 @@
 .link {
 }
 
+#mfPreviewBar {
+  display: none !important;
+}
+
 .pic-box {
 }
 
 .pic {
   height: auto;
   width: 100%;
-  cursor: url(assets/arrows/left.png);
 }
 
 .posters {

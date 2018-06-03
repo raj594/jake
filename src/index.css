@@ -1,7 +1,5 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sabon;
-  
-  cursor: url(assets/arrows/left.png), auto;
+  font-family: 'Sabon Roman';
 }
