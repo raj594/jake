@@ -2,15 +2,15 @@ import React, { Component } from 'react';
 import Flexbox from 'flexbox-react';
 
 const links = ['Sublevel Mag',
-                'Grad Practice',
-                '2001 A.S.O',
                 'Vampyroteuthis',
-                'EJ Hill/L. Halsey', 
+                'The Big Dream',
+                '2001 A.S.O',
+                'EJ Hill/L. Halsey',
+                'Barbara Imhof', 
                 'Open Studios', 
                 'Bojana Cjevic',
                 'School of Dance', 
-                'Veggie Cloud', 
-                'Young Joon Kwak',      
+                'Veggie Cloud',      
                 'Dance Shirts',
                 'Gluten Death',
                 'Drusilla Titling'

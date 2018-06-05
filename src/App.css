@@ -7,14 +7,12 @@
 .contact {
   padding-top: 30px;
   padding-left: 25px;
-
-  flex: 1 1 auto;
 }
 
 .sidebar {
-  text-align: left;
-  width: 20%;
+  position: fixed;
 }
+
 
 .contact {
   text-align: right;
@@ -24,6 +22,7 @@
 }
 
 .pics-container {
+  padding-left: 20%;
 }
 
 .pic-container {
@@ -55,6 +54,7 @@
 .pic {
   height: auto;
   width: 100%;
+  cursor: url(assets/arrows/left.png), e-resize;
 }
 
 .contact-line {
@@ -69,6 +69,7 @@
 p {
   margin-top: 0px;
 }
+
 .caption,
 .category {
   text-align: left;
