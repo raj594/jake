@@ -11,6 +11,8 @@
 
 .sidebar {
   position: fixed;
+  width: 20%;
+  text-align: left;
 }
 
 
@@ -22,7 +24,7 @@
 }
 
 .pics-container {
-  padding-left: 20%;
+  padding-left: 25%;
 }
 
 .pic-container {
